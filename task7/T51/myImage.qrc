@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/myImage">
+        <file>images/fileopen.png</file>
+        <file>images/filenew.png</file>
+        <file>images/cat.JPG</file>
+    </qresource>
+</RCC>
